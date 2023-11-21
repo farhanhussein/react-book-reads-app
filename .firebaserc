@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "book-reads-14b5d",
+    "book": "book-reads-14b5d"
+  },
+  "targets": {},
+  "etags": {}
+}
